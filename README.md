@@ -1,6 +1,14 @@
 # My_RPG_2019_MUL
 Graphical application [Game] - 1st year project
 
+# Contributors
+  * ![@SimonRacaud](https://github.com/SimonRacaud)
+  * ![@AurelienJoncour](https://github.com/aurelienjoncour)
+  * ![@sullmin](https://github.com/sullmin)
+  * ![@vincent-andrieu](https://github.com/vincent-andrieu)
+  * Thomas Jouanolle
+
+
 # Demo Video
 [![Game demo](https://img.youtube.com/vi/JrIsSziN3Cs/0.jpg)](https://www.youtube.com/watch?v=JrIsSziN3Cs)
 # Trailer Video (keynote)
