@@ -2,10 +2,10 @@
 Graphical application [Game] - 1st year project
 
 # Contributors
-  * ![@SimonRacaud](https://github.com/SimonRacaud)
-  * ![@AurelienJoncour](https://github.com/aurelienjoncour)
-  * ![@sullmin](https://github.com/sullmin)
-  * ![@vincent-andrieu](https://github.com/vincent-andrieu)
+  * [@SimonRacaud](https://github.com/SimonRacaud)
+  * [@AurelienJoncour](https://github.com/aurelienjoncour)
+  * [@sullmin](https://github.com/sullmin)
+  * [@vincent-andrieu](https://github.com/vincent-andrieu)
   * Thomas Jouanolle
 
 
