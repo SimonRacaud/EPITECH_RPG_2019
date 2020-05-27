@@ -6,7 +6,6 @@ Graphical application [Game] - 1st year project
   * [@AurelienJoncour](https://github.com/aurelienjoncour)
   * [@sullmin](https://github.com/sullmin)
   * [@vincent-andrieu](https://github.com/vincent-andrieu)
-  * Thomas Jouanolle
 
 
 # Demo Video
