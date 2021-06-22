@@ -8,9 +8,6 @@ Realized in C with a low-level graphical library.
   * [@sullmin](https://github.com/sullmin)
   * [@vincent-andrieu](https://github.com/vincent-andrieu)
 
-
-# Demo Video
-[![Game demo](https://img.youtube.com/vi/JrIsSziN3Cs/0.jpg)](https://www.youtube.com/watch?v=JrIsSziN3Cs)
 # Trailer Video (keynote)
 [![Game demo](https://img.youtube.com/vi/f1FvUEb4m4Q/0.jpg)](https://www.youtube.com/watch?v=f1FvUEb4m4Q)
 
