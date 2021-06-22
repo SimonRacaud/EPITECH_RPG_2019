@@ -1,5 +1,6 @@
 # My_RPG_2019_MUL
 Graphical application [Game] - 1st year project
+Realized in C with a low-level graphical library.
 
 # Contributors
   * [@SimonRacaud](https://github.com/SimonRacaud)
